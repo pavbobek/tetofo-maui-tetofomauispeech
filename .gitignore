@@ -1,0 +1,4 @@
+#build dirs
+.vscode/
+bin/
+obj/
