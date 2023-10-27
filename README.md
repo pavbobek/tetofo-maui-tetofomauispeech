@@ -10,6 +10,6 @@
 
 - SpeechToTextService: converts speech to token stream.
 - FileDAO: saves tokens to disk.
-- Mediator: handles comunication between services.
+- Mediator: handles communication between services.
 
 > For more details see Helper/Setups.cs which populates IOCContainer.
