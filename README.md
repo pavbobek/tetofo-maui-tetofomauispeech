@@ -2,7 +2,7 @@
 
 > Do you want to save your speech as JSON token from any device supported by MAUI? Not a problem now!
 
-> Highly inspired by [Microsift Speech to text](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/essentials/speech-to-text?tabs=windows)
+> Highly inspired by [Microsoft Speech to text](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/essentials/speech-to-text?tabs=windows)
 
 ### Summary
 
