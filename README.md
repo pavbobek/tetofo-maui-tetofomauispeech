@@ -8,7 +8,7 @@
 
 > This is basic MAUI template with Community toolkit. It has 2 services and mediator in its IOCContainer:
 
-- SpeechToTextService: convert speech to token stream.
+- SpeechToTextService: converts speech to token stream.
 - FileDAO: saves tokens to disk.
 - Mediator: handles comunication between services.
 
