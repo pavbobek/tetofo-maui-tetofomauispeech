@@ -13,3 +13,7 @@
 - Mediator: handles communication between services.
 
 > For more details see Helper/Setups.cs which populates IOCContainer.
+
+##### Android notes
+
+> MAUI internaly uses Google speech assistant. Make sure you have Google app enable otherwise it wont work. 
