@@ -16,4 +16,4 @@
 
 ##### Android notes
 
-> MAUI internaly uses Google speech assistant. Make sure you have Google app enable otherwise it wont work. 
+> MAUI internaly uses Google speech assistant. Make sure you have Google app enabled. It wont work without it. 
